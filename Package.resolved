@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommunicatorCore",
+        "repositoryURL": "https://github.com/Paydogs/CommunicatorCore.git",
+        "state": {
+          "branch": null,
+          "revision": "f53b4db8c319c6855fbb0579d4c4c28df00df334",
+          "version": "1.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
