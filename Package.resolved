@@ -1,13 +1,13 @@
 {
-  "originHash" : "727dfe998eea903fd5705776522b8db0f400a75ca08410463678f33012ae213a",
+  "originHash" : "fa471a457bfb94b8093f34a234934838aa7f0a464ae11781cc2a020b2092f3b1",
   "pins" : [
     {
       "identity" : "communicatorcore",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Paydogs/CommunicatorCore.git",
       "state" : {
-        "revision" : "c5b2e3d7cc3a473fc941a3f040faf06ed5906414",
-        "version" : "1.2.0"
+        "revision" : "6c355a135278968c49cfbcdb6c3843bc686ee501",
+        "version" : "2.0.0"
       }
     }
   ],

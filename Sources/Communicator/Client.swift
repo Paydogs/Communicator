@@ -13,9 +13,7 @@ public class Client: CommunicatorCore.Client, @unchecked Sendable {
     public let logMessages = PassthroughSubject<String, Never>()
 
     public override func debugLog(_ message: String) {
+        super.debugLog(message)
         logMessages.send("\(message)")
-        #if DEBUG
-            print("[DEBUG] \(message)")
-        #endif
     }
 }
